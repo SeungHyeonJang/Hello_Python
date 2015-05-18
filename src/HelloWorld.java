@@ -5,7 +5,6 @@ public class HelloWorld {
 	System.out.println("Hello World");
 	System.out.println("Viva Korea");
 	System.out.println("Hello Earth");
-
 	}
 	
 }
